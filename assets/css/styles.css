@@ -181,6 +181,7 @@
   color: var(--primary-color);
   transform: rotate(-90deg);
   border: 0.1rem solid var(--primary-color);
+  visibility: hidden;
 }
 
 @media (max-width: 800px) {
